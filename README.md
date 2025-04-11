@@ -1,8 +1,8 @@
-# Complete Python **OS** Module Tutorial
+# Python **OS** Module Tutorial
 
 The **os** module in Python provides a way of using operating system dependent functionality. It allows you to interface with the underlying operating system that Python is running on, including Windows, Mac and Linux.
 
-** Table of Contents 📋**
+Table of Contents 📋
 
 1. 📥 Importing the Module  
 2. 📂 File and Directory Operations  
